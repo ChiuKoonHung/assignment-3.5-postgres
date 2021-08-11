@@ -20,6 +20,9 @@ In this assignment, you will continue to work on:
 
 Demonstrate your understanding by inserting SQL Queries related to table creation and foreign key creation below.
 
+You may use `pg_dump` to export your database and include the file in this repository.
+
+
 ```sql
 // Enter your SQL Queries here
 ```
